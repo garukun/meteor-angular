@@ -1,2 +1,5 @@
 'use strict';
-angular.module('UniversalGiving', ['angular-meteor']);
+angular.module('exampleAngularApp', [
+  'angular-meteor',
+  'ngMaterial'
+]);
